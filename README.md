@@ -1,6 +1,6 @@
 # Safe Exam Browser, Version 3.x
 
-Refactored version of Safe Exam Browser for Windows with Chromium as integrated browser engine.
+An updated version of Safe Exam Browser for Windows with an integrated Chromium-based browser. This allows you to easily enable screen sharing in the discord app.
 
 ## Requirements
 
