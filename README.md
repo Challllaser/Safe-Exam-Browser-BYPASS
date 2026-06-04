@@ -6,7 +6,7 @@ Refactored version of Safe Exam Browser for Windows with Chromium as integrated 
 
 > [!NOTE]  
 > Starting with version 3.8.0, Safe Exam Browser for Windows requires a minimum operating system version of **Windows 10 version 1803**.
-
+> When there's an exam, you can always enable screen sharing in the discord app.
 Safe Exam Browser for Windows requires the prerequisites listed below in order to work correctly. These are automatically installed with the setup bundle and need only be manually installed when using the MSI packages.
 
 * .NET Framework 4.8 Runtime: https://dotnet.microsoft.com/download/dotnet-framework/net48
